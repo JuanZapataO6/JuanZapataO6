@@ -1,5 +1,24 @@
 Hi 👋, I'm Juan Pablo Zapata 
 
+A passionate backend developer from Colombia
+
+👀 Interested in:
+
+    Backend
+    Data Base 
+    Framework
+
+📑 Skills:
+
+    Java
+    Git
+    PostgreSQL
+
+🌱 I’m currently learning SQL, PostgreSQL, Golang
+
+💬 Ask me about Java and JavaSpring
+
+📫 How to reach me juan.zapataoc@gmail.com 
 
 <!--
 **JuanZapataO6/JuanZapataO6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
