@@ -23,6 +23,8 @@ Ingeniero electrónico con formación en educación. Actualmente soy analista fu
 ## 📂 Proyectos
 
 - **Conciliación de facturación (Python y Google Colab):** compara facturas, aplica filtros de depuración en varios pasos y valida tarifas.
+- **Control de acceso a puntos fijos (Power Apps, Power Automate, SharePoint):** registro de ingreso y asistencia para cinco puntos de servicio, con detección automática del punto según la sesión del colaborador y reportes consolidados. En desarrollo.
+- **Parametrización de tarifas y cursos:** validación tarifaria, parametrización y oferta de cursos en cinco líneas regionales.
 
 **Repositorios públicos:**
 
